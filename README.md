@@ -1,0 +1,1 @@
+This example demonstrates a common ActionScript error that occurs when attempting to access an element in an empty array using the array's length as an index.  The code in 'bug.as' shows the faulty logic, while 'bugSolution.as' presents a corrected version.
